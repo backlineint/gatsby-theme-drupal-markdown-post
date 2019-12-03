@@ -7,7 +7,7 @@ Requires enabling the [Gatsby Markdown Post](https://drupal.org/projects/gatsby_
 
 ## Install
 
-`npm install --save @backlineint/gatsby-theme-drupal-markdown-post gatsby-source-drupal`
+`npm install --save gatsby-theme-drupal-markdown-post gatsby-source-drupal`
 
 This theme has [gatsby-source-drupal](https://www.gatsbyjs.org/packages/gatsby-source-drupal/) as a peer dependency - if you aren't already using that
 plugin you'll need to install and configure it.
