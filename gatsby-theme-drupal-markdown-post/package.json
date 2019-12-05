@@ -1,7 +1,7 @@
 {
   "name": "gatsby-theme-drupal-markdown-post",
   "description": "Single purpose theme that displays Markdown post data from Drupal in Gatsby with limited configuration.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "homepage": "https://github.com/backlineint/gatsby-theme-drupal-markdown-post/tree/master/gatsby-theme-drupal-markdown-post#readme",
   "keywords": [

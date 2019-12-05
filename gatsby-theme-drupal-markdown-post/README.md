@@ -3,7 +3,7 @@
 Single purpose theme that displays Markdown post data from Drupal in Gatsby with limited 
 configuration. Uses the [gatsby-remark-drupal](https://www.gatsbyjs.org/packages/@weknow/gatsby-remark-drupal/) plugin for markdown and image preprocessing.
 
-Requires enabling the [Gatsby Markdown Post](https://drupal.org/projects/gatsby_markdown_post) module on your Drupal site.
+Requires enabling the [Gatsby Markdown Post](https://www.drupal.org/project/gatsby_md_post) module on your Drupal site.
 
 ## Install
 
